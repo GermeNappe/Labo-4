@@ -1,0 +1,29 @@
+body{
+    background-image: url(../images/cinema.jpg);
+    background-position: top center;
+    background-size: cover;
+}
+
+.realisateur{
+    color: yellowgreen;
+    font-size: 25px;
+}
+
+.nolist{
+    list-style: none;
+}
+
+.film{
+    list-style-type: upper-latin;
+    font-size: medium;
+    color: white;
+}
+
+ul{
+    list-style: disc;
+}
+
+ol{
+    list-style-type: upper-latin;
+    font-family: Arial, Helvetica, sans-serif;
+}
