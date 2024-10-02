@@ -4,6 +4,11 @@ body{
     background-size: cover;
 }
 
+h1{
+    color: white;
+}
+
+
 .realisateur{
     color: yellowgreen;
     font-size: 25px;
